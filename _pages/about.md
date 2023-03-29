@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+ 
 I am an Assistant Professor at Computer Science, Great Bay University. My research develops probabilistic machine learning models and algorithms to solve problems arising in computational social science and natural sciences.
 
 I recently moved from The Chinese University of Hong Kong, Shenzhen where I was a research scientist, working with Hongyuan Zha and Chris H.Q. Ding on learning the cost function of graphical-structured multi-marginal optimal transport problems.
@@ -15,7 +15,7 @@ I recently moved from The Chinese University of Hong Kong, Shenzhen where I was 
 I received my PhD in ETIT from TU Darmstadt in 2019 under the guidance of Prof. Heinz Koeppl. My PhD thesis developed non-parametrics Bayesian methods for dynamic networks.
 
 Prior to that, I received an MPhil in Computer Science and BEng in Electrical Engineering from Beijing Jiaotong University. 
-======
+ 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
