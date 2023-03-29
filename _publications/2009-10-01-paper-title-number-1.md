@@ -1,16 +1,8 @@
 ---
-title: "The Hawkes Edge Partition Model for Continuous-time Event-based Temporal
-Networks"
+title: "Estimating Latent Population Flows from Aggregated Data via Inversing Multi-
+Marginal Optimal Transport"
 collection: publications
-permalink: [/publication/2009-10-01-paper-title-number-1](https://proceedings.mlr.press/v124/yang20a.html)
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
-date: 2009-10-01
-venue: 'UAI 2020'
-paperurl: 'https://proceedings.mlr.press/v124/yang20a.html'
-<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+date: 2023-1-1 
+venue: 'SIAM International Conference on Data Mining (SDM)'
+paperurl: 'https://arxiv.org/abs/2212.14527'
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
-
-[Download paper here](https://arxiv.org/abs/2006.12952.pdf)
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
