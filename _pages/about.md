@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 I am an Assistant Professor at Computer Science, Great Bay University. My research develops probabilistic machine learning models and algorithms to solve problems arising in computational social science and natural sciences.
 
 I recently moved from The Chinese University of Hong Kong, Shenzhen where I was a research scientist, working with Hongyuan Zha and Chris H.Q. Ding on learning the cost function of graphical-structured multi-marginal optimal transport problems.
