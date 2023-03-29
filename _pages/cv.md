@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,13 +18,17 @@ Education
 
 Work experience
 ======
-* 2019-2021: Postdoctoral Researcher
-  * German Center for Neurodegenerative Diseases (DZNE)
-  * Supervisor: Sach Mukherjee
-
 * 2021-2023: Research Scientist
   * The Chinese University of Hong Kong, Shenzhen
   * Supervisor: Hongyuan Zha, Chris H. Q. Ding
+* 2019-2021: Postdoctoral Researcher
+  * German Center for Neurodegenerative Diseases (DZNE)
+  * Supervisor: Sach Mukherjee
+* 2009-2011: Research Assistant
+  * Beijing Posts and Telecommunication University
+  * Supervisor: Xiaoyan Cui
+
+
   
 <!-- Skills
 ======
@@ -57,5 +61,5 @@ Academic Service
 ======
 * Program Committee Member and Reviewer: Neurips 2018-2022, ICML 2019-2023,
 ICLR 2021-2022, AAAI 2020-2023, AISTATS 2022-2023, IJCAI 2023
-* Journal Reviewer: Bayesian Analysis, Machine Learning, BMC System Biology, Data Mining and Knowledge
-Discovery
+<!-- * Journal Reviewer: Bayesian Analysis, Machine Learning, BMC System Biology, Data Mining and Knowledge
+Discovery -->
