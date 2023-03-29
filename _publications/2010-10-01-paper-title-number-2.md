@@ -1,10 +1,8 @@
 ---
 title: "Dependent Relational Gamma Process Models for Longitudinal Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2018-1-1
-venue: 'ICML 2018'
+date: 2018 
+venue: 'ICML'
 paperurl: 'https://proceedings.mlr.press/v80/yang18b.html'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work.
