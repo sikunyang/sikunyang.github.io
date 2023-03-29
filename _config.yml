@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sikun Yang"
+title                    : "Sikun Yang (杨斯崑)"
 title_separator          : "-"
-name                     : &name "Sikun Yang (杨斯崑)"
+name                     : &name "Sikun Yang"
 description              : &description "Assistant Professor at Computer Science, Great Bay University"
 url                      : https://sikunyang.github.io # the base hostname & protocol for your site e.g. "https://sikunyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
