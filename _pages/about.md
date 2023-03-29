@@ -9,9 +9,9 @@ redirect_from:
 --- -->
 I am an Assistant Professor at Computer Science, Great Bay University. My research develops probabilistic machine learning models and algorithms to solve problems arising in computational social science and natural sciences.
 
-I recently moved from The Chinese University of Hong Kong, Shenzhen where I was a research scientist, working with Hongyuan Zha and Chris H.Q. Ding on learning the cost function of graphical-structured multi-marginal optimal transport.
+I recently moved from The Chinese University of Hong Kong, Shenzhen where I was a research scientist, working with Hongyuan Zha and Chris H.Q. Ding on learning the cost function of graphical-structured multi-marginal optimal transport problems.
 
-I received my PhD in ETIT from TU Darmstadt in 2019 under the guidance of Prof. Heinz Koeppl. My PhD thesis developed Bayesian non-parametrics methods for dynamic networks.
+I received my PhD in ETIT from TU Darmstadt in 2019 under the guidance of Prof. Heinz Koeppl. My PhD thesis developed non-parametrics Bayesian methods for dynamic networks.
 
 Prior to that, I received an MPhil in Computer Science and BEng in Electrical Engineering from Beijing Jiaotong University. 
 
