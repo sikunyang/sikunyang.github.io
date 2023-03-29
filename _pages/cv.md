@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Electrical Engineering and Information Technology, Technical University of Darmstadt, 2019 
+* M.S. in Computer Science, Beijing Jiaotong University, 2014
+* B.S. in Electrical Engineering, Beijing Jiaotong University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: Postdoctoral Researcher
+  * German Center for Neurodegenerative Diseases (DZNE)
+  * Supervisor: Sach Mukherjee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2023: Research Scientist
+  * The Chinese University of Hong Kong, Shenzhen
+  * Supervisor: Hongyuan Zha, Chris H. Q. Ding
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -52,8 +51,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Program Committee Member and Reviewer: Neurips 2018-2022, ICML 2019-2023,
+ICLR 2021-2022, AAAI 2020-2023, AISTATS 2022-2023, IJCAI 2023
+* Journal Reviewer: Bayesian Analysis, Machine Learning, BMC System Biology, Data Mining and Knowledge
+Discovery
